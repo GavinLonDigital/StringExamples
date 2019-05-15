@@ -124,7 +124,7 @@ namespace StringExamples
             sb.AppendLine("as vibrations of tiny");
             sb.AppendLine("supersymmetric strings.");
 
-            sb[8] = 'a'; // Change character at to 'a' position 8 in the string 
+            sb[8] = 'a'; // Change character at position 8 to 'a' in the string 
 
             string txt = sb.ToString();
 
